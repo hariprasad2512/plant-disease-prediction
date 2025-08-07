@@ -112,17 +112,6 @@ Contributions are most welcome! To contribute:
 4. Push to your branch: `git push origin feature/YourFeatureName`
 5. Open a Pull Request—I'll be happy to review.
 
----
-
-##  License
-
-This repository is provided under the **MIT License**. See the [LICENSE] file for details.
-
----
-
-##  Contact
-
-For questions, suggestions, or collaboration, feel free to open an issue or reach me via GitHub.
 
 ---
 
